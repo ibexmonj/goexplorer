@@ -1,0 +1,9 @@
+
+# Test binary, executables, and vendor directories
+*.test
+/vendor/
+
+# Golang Build Cache
+go.sum
+go.mod
+
